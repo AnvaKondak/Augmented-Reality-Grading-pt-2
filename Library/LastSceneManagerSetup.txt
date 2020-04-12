@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SamplesResources/Scenes/3-CloudReco.unity
+- path: Assets/dataFiles/SkedulaARCloud.unity
   isLoaded: 1
   isActive: 1
